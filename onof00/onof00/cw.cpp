@@ -17,6 +17,7 @@ CW::CW(QWidget *parent)
 	QString str;
 	str="aa0";
 	ui.lineEdit->setText(str);
+	int aaaa;
 //
 
 }
